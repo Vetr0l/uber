@@ -7,3 +7,7 @@
 * HTML | SASS | JS | BOOTSTRAP
 * Адаптивная верстка
 #### Посмотреть проект: https://uzyanbaev.github.io/uber777/
+
+<hr>
+
+#### 📅 Creation date: 25.06.2023
