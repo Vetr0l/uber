@@ -1,5 +1,5 @@
 # UBER777
-<img src="https://github.com/uzyanbaev/uber777/blob/main/img/uber777.jpg?raw=true" alt="uber" width="500"/>
+<img src="https://github.com/t1lent/uber/blob/main/img/uber777.jpg?raw=true" alt="uber" width="500"/>
 
 
 ### Проектная работа №2 из курса Ивана Петриченко web-разработчик
